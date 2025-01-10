@@ -28,3 +28,6 @@ Each project JSON must follow the format below:
   "created_at": "DD-MM-YYYY"
 }
 ```
+
+> [!NOTE]  
+> The listed projects using Aurora may be displayed on our website.
