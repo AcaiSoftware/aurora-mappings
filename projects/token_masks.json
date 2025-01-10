@@ -1,0 +1,14 @@
+{
+  "name": "Token Masks",
+  "repo_link": "https://github.com/briesearch/token-masks",
+  "description": "A masked language model with positional encoding using multi-layer neural network.",
+  "author": {
+    "name": "Brissach",
+    "email": "brissach@arctis.io",
+    "github": "https://github.com/brissach"
+  },
+  "keywords": ["Aurora", "Machine Learning", "Token Masking", "Masked Language Model"],
+  "languages": ["Java"],
+  "license": "Apache-2.0",
+  "created_at": "10-01-2025"
+}
